@@ -27,14 +27,13 @@ Welcome to my little corner of GitHub — glad you stopped by! Here's a quick in
 
 
 
+## 🎯 My Version of Fun Stuff
 
-## 🎯 Bonus Round: Fun Stuff
-
-- 🥾 Outdoorsy things like walking, hiking, e-scootering (whenever possible)
-- ♠️ Texas Hold’em enthusiast (overall i am still *under)
+- 🥾 Outdoor stuff like walking, hiking, e-scootering (when possible)
+- ♦️ Poker Texas Hold’em
 - ♟️ Casual chess battles
-- 🎮 PUBG on Xbox (not a sweat tho)
-- 🪙 Crypto (mostly just spectating 🫣)
+- 🎮 PUBG on Xbox (not very good)
+- 🪙 Crypto (mostly spectating 🫣)
 - 📱 Occasional doom-scroll
 
 
