@@ -1,16 +1,43 @@
-## Hi there 👋
 
 <!--
 **Gabemira157/gabemira157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+# 👋 Hello, World!
+
+Welcome to my little corner of GitHub — glad you stopped by! Here's a quick intro about me 👇
+
+
+
+## 🧑‍💻 About Me
+
+**Name:** Gabe Mira  
+**Location:** Hermosillo, Sonora, MX  
+**Work:** Proud member of the [Syde Team](https://syde.com) 💚💚🚀🚀
+
+
+
+## 💼 Professional Interests
+
+- 🛠️ IT services & support
+- 🌐 WordPress tinkering (custom themes & plugins)
+- 🧩 Project Management
+- ⚙️ Jira setups & smart automations
+- 📊 Data analytics & Data wrangling
+- 📈 Data insights and Data visualizations 
+
+
+
+
+## 🎯 Bonus Round: Fun Stuff
+
+- 🥾 Outdoorsy things like walking, hiking, e-scootering (whenever possible)
+- ♠️ Texas Hold’em enthusiast (overall i am still *under)
+- ♟️ Casual chess battles
+- 🎮 PUBG on Xbox (not a sweat tho)
+- 🪙 Crypto (mostly just spectating 🫣)
+- 📱 Occasional doom-scroll
+
+
+Feel free to peek around — I'm always down to collaborate, share insights, or nerd out over workflows and dashboards.
+
+Thanks for stopping by! 🌟
