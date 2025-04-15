@@ -20,7 +20,7 @@ Welcome to my little corner of GitHub — glad you stopped by! Here's a quick in
 
 - 🛠️ IT services & support
 - 🌐 WordPress tinkering (custom themes & plugins)
-- 🧩 Project Management
+- 🧩 IT Project Management
 - ⚙️ Jira setups & smart automations
 - 📊 Data analytics & Data wrangling
 - 📈 Data insights and Data visualizations 
