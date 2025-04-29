@@ -19,10 +19,10 @@ Welcome to my little corner of GitHub — glad you stopped by! Here's a quick in
 ## 💼 Professional Interests
 
 - 🛠️ IT services & support
-- 🌐 WordPress tinkering (custom themes & plugins)
+- 🌐 WordPress backend administration
 - 🧩 IT Project Management
 - ⚙️ Jira setups & smart automations
-- 📊 Data analytics & Data wrangling
+- 📊 Data wrangling & Data analytics 
 - 📈 Data insights and Data visualizations 
 
 
