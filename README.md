@@ -10,8 +10,8 @@ Welcome to my little corner of GitHub — glad you stopped by! Here's a quick in
 
 ## 🧑‍💻 About Me
 
-**Name:** Gabe Mira  
-**Location:** Hermosillo, Sonora  
+**Name:** GabeMira157
+**Location:** Sonora, Mexico
 **Work:** Proud member of the [Syde Team](https://syde.com) 💚💚🚀🚀
 
 
@@ -22,8 +22,8 @@ Welcome to my little corner of GitHub — glad you stopped by! Here's a quick in
 - 🌐 WordPress backend administration
 - 🧩 IT Project Management
 - ⚙️ Jira setups & smart automations
-- 📊 Data wrangling & Data analytics 
-- 📈 Data insights and Data visualizations 
+- 📊 Data wrangling & analytics 
+- 📈 Data insights and visualizations 
 
 
 
@@ -37,6 +37,5 @@ Welcome to my little corner of GitHub — glad you stopped by! Here's a quick in
 - 📱 Occasional doom-scroll
 
 
-Feel free to peek around — I'm always down to collaborate, share insights, or nerd out over workflows and dashboards.
 
 Thanks for stopping by! 🌟
