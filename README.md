@@ -18,12 +18,11 @@ Welcome to my little corner of GitHub — glad you stopped by! Here's a quick in
 
 ## 💼 Professional Interests
 
-- 🛠️ IT services & support
+- 🛠️ IT services
 - 🌐 WordPress backend administration
-- 🧩 IT Project Management
-- ⚙️ Jira setups & smart automations
-- 📊 Data wrangling & analytics 
-- 📈 Data insights and visualizations 
+- 🧩 Project Management
+- ⚙️ Jira setups & automations
+- 📈 Data analytics & insights
 
 
 
@@ -32,8 +31,8 @@ Welcome to my little corner of GitHub — glad you stopped by! Here's a quick in
 - 🥾 Outdoor stuff like walking, hiking, e-scootering (when possible)
 - ♦️ Poker Texas Hold’em
 - ♟️ Casual chess battles
-- 🎮 PUBG on Xbox (not very good)
-- 🪙 Crypto (mostly spectating 🫣)
+- 🎮 Gaming on Arc Raiders, PUBG and Elden Ring
+- 🪙 Crypto (purely spectating 🫣)
 - 📱 Occasional doom-scroll
 
 
