@@ -10,9 +10,9 @@ Welcome to my little corner of GitHub — glad you stopped by! Here's a quick in
 
 ## 🧑‍💻 About Me
 
-**Name:** GabeMira157
-**Location:** Sonora, Mexico 🇲🇽
-**Work:**  [Syde Team](https://syde.com) 💻
+- **Name:** Gabriel Miranda
+- **Location:** Sonora, Mexico
+- **Work:**  [Syde Team](https://syde.com) 💚
 
 
 
@@ -31,6 +31,7 @@ Welcome to my little corner of GitHub — glad you stopped by! Here's a quick in
 - ♦️ Poker
 - ♟️ Chess battles
 - 🎮 Video games; Arc Raiders, PUBG, Elden Ring
+
 
 
 
