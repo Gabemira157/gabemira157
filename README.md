@@ -11,29 +11,26 @@ Welcome to my little corner of GitHub — glad you stopped by! Here's a quick in
 ## 🧑‍💻 About Me
 
 **Name:** GabeMira157
-**Location:** Sonora, Mexico
-**Work:** Proud member of the [Syde Team](https://syde.com) 💚💚🚀🚀
+**Location:** Sonora, Mexico 🇲🇽
+**Work:**  [Syde Team](https://syde.com) 💻
 
 
 
 ## 💼 Professional Interests
 
-- 🛠️ IT services
 - 🌐 WordPress backend administration
-- 🧩 Project Management
-- ⚙️ Jira setups & automations
-- 📈 Data analytics & insights
+- 🛠️ IT services
+- 🧩 Junior Project Management
+- 📈 Data analytics
 
 
 
 ## 🎯 My Version of Fun Stuff
 
-- 🥾 Outdoor stuff like walking, hiking, e-scootering (when possible)
-- ♦️ Poker Texas Hold’em
-- ♟️ Casual chess battles
-- 🎮 Gaming on Arc Raiders, PUBG and Elden Ring
-- 🪙 Crypto (purely spectating 🫣)
-- 📱 Occasional doom-scroll
+- 🥾 Outdoor stuff like walking, hiking , biking
+- ♦️ Poker
+- ♟️ Chess battles
+- 🎮 Video games; Arc Raiders, PUBG, Elden Ring
 
 
 
