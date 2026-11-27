@@ -4,34 +4,33 @@
 -->
 # 👋 Hello, World!
 
-Welcome to my little corner of GitHub — glad you stopped by! Here's a quick intro about me 👇
+Welcome to my little corner of GitHub. Here's a quick intro about me 👇
 
 
 
 ## 🧑‍💻 About Me
 
 - **Name:** Gabriel Miranda
-- **Location:** Sonora, Mexico
-- **Work:**  [Syde Team](https://syde.com) 💚
+- **Location:** Hermosillo, Mexico
+- **Work:**  [Syde - Europe's Biggest WordPress Development Agency](https://syde.com/wordpress-agency/) 💚🥬
 
 
 
-## 💼 Professional Interests
+## 💼 Professional Developement
 
-- 🌐 WordPress backend administration
-- 🛠️ IT services
+- 🌐 WordPress backend administration / Webmaster
+- 🛠️ Digital / IT services
+- 📈 Data science and analytics
 - 🧩 Junior Project Management
-- 📈 Data analytics
 
 
 
 ## 🎯 My Version of Fun Stuff
 
 - 🥾 Outdoor stuff like walking, hiking , biking
-- ♦️ Poker
+- ♦️ Poker nights
 - ♟️ Chess battles
-- 🎮 Video games; Arc Raiders, PUBG, Elden Ring
-
+- 🎮 Video games
 
 
 
