@@ -11,7 +11,7 @@ Welcome to my little corner of GitHub. Here's a quick intro about me 👇
 ## 🧑‍💻 About Me
 
 - **Name:** Gabriel Miranda
-- **Location:** Hermosillo, Mexico
+- **Location:** Hermosillo, México
 - **Work:**  [Syde - Europe's Biggest WordPress Development Agency](https://syde.com/wordpress-agency/) 💚🥬
 
 
